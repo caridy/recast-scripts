@@ -13,8 +13,9 @@
   ],
   "author": "Caridy Patiño <caridy@gmail.com>",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "recast": "^0.5.25",
-    "assert": "^1.1.1"
+    "assert": "^1.1.1",
+    "jsx-esprima": "^0.1.1"
   }
 }
